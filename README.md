@@ -2,9 +2,9 @@
 AI-powered Business Intelligence Dashboard
 ![image](https://github.com/user-attachments/assets/983b1d4b-0268-4617-ae88-55528bd09f66)
 
-Project Overview
+Project Overview : 
 In today's competitive business landscape, predicting customer churn is essential for maintaining a healthy revenue stream and enhancing customer retention strategies. This project focuses on developing a predictive model that identifies customers at risk of churning based on various features such as age, gender, tenure, usage frequency, support calls, payment delay, subscription type, contract length, and total spend.
-Objectives
+Objectives :
 Predict Customer Churn: Utilize machine learning techniques to forecast which customers are likely to discontinue their service.
 Data-Driven Insights: Provide actionable insights to improve customer retention strategies by identifying key factors influencing churn.
 Tools Required
